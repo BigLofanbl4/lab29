@@ -1,0 +1,10 @@
+name: lab29
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12.2
+  - black
+  - isort
+  - flake8
+  - pre-commit
