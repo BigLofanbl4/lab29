@@ -1,6 +1,9 @@
 # !/usr/bin/env python3
 # -*- coding: utf-8 -*-
 
+#Выполнить индивидуальное задание лабораторной работы 4.5, использовав классы данных, а
+#также загрузку и сохранение данных в формат XML.
+
 import argparse
 import xml.etree.ElementTree as ET
 from dataclasses import dataclass, field
